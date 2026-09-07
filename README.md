@@ -59,8 +59,7 @@ Anaca is an e-commerce platform for G & S Hardware, providing a convenient onlin
 
 ## Let's connect
 
-- LinkedIn: [Add your LinkedIn profile](#)
-- Portfolio: [Add your portfolio website](#)
+- LinkedIn: [Sai Naing Lin Htoo](https://www.linkedin.com/in/sai-naing-lin-htoo-369202175)
 - Email: [sai@nexbe.sg](mailto:sai@nexbe.sg)
 
 Thanks for stopping by—feel free to explore my repositories or get in touch.
