@@ -37,14 +37,14 @@
 
 Azovis is a work-activity and productivity platform that helps users keep their daily work records organised in one place. It supports secure account access, check-in/check-out tracking, activity history, incident notes, documents, expense records, and leave requests through a streamlined digital experience.
 
-`Next.js` `Node.js` `PostgreSQL`  
+`Next.js` `Node.js` `Strapi` `PostgreSQL`  
 [View project →](https://azovis.com)
 
 ### Anaca
 
 Anaca is an e-commerce platform for G & S Hardware, providing a convenient online catalogue for professional tools, building supplies, safety equipment, and home-improvement products. The site makes it easier for customers to browse product categories and purchase hardware essentials online.
 
-`Next.js` `Node.js` `PostgreSQL`  
+`Next.js` `Strapi` `OVH` `Socket.io` `PostgreSQL`  
 [View project →](https://anaca.sg)
 
 ## What I work with
