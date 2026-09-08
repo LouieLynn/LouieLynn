@@ -1,6 +1,6 @@
 # Hi, I'm Sai Naing Lin Htoo 👋
 
-**Software Engineer** with 8+ years of experience building reliable web and mobile applications. I enjoy turning product ideas into clean, scalable software—from user-facing interfaces to APIs, databases, and cloud deployments.
+**Full Stack Developer** with 8+ years of experience building reliable web and mobile applications. I enjoy turning product ideas into clean, scalable software—from user-facing interfaces to APIs, databases, and cloud deployments.
 
 ## About me
 
